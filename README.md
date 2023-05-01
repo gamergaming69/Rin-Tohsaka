@@ -39,7 +39,7 @@
   
 ## Deploy
       
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Toshi-san001/Rin-Tohsaka)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gamergaming69/Rin-Tohsaka)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/pkm7bu?referralCode=3ez0Ta)
 
